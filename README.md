@@ -1,2 +1,2 @@
 # L-gica-de-programa-o
-Mini projetos deselvolvido durante o período de estudo
+Mini projeto deselvolvido durante o período de estudo
